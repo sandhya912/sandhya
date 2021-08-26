@@ -1,5 +1,12 @@
 this is chat application
+
 emoji
 type  option
 colors
 vibrant
+
+Drak mode
+video calls
+vocie calls
+stickers
+gifs
